@@ -57,7 +57,7 @@ These patterns strongly suggest the email is **spoofed and potentially malicious
 
 All findings, including screenshots and detailed notes, are documented in:
 
->  **Phishing_Email_Analysis_Task2.docx**
+>  **Phishing_Email_Analysis_Task 2.docx**
 
 ---
 
